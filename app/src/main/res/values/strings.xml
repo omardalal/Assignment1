@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title_logo">My Fitness</string>
+    <string name="main_all_btn">All Workouts</string>
+    <string name="main_fav_btn">Favorite Workouts</string>
+    <string name="main_add_btn">Create Workout</string>
+    <string name="all_workouts_title">All Workouts</string>
+    <string name="fav_workouts_title">Favorite Workouts</string>
+    <string name="fav_workout_title">Favorite Workouts</string>
+    <string name="create_workout_title">Create Workout</string>
+    <string name="add_top_btn">Create New</string>
+    <string name="create_title">Create New Workout</string>
+    <string name="create_titleLbl">Create New Workout</string>
+    <string name="create_nameField_hint">Workout Name</string>
+    <string name="create_durField_hint">Workout Duration</string>
+    <string name="main_title">My Fitness</string>
+    <string name="create_descField_hint">Workout Description</string>
+    <string name="create_createBtn">Create</string>
+    <string name="detailsNameHolder">Workout Name</string>
+    <string name="detailsDuration">Workout Duration:</string>
+    <string name="detailsDurationHolder">15 minutes</string>
+    <string name="detailsCategory">Workout Category:</string>
+    <string name="detailsCategoryHolder">Shoulders</string>
+    <string name="detailsDetails">Workout Details:</string>
+    <string name="detailsDetailsHolder">Workout Details…</string>
+    <string name="detailsFavoriteCheckbox">Favorite</string>
+    <string name="workoutDetailsTitle">"Workout Details"</string>
+    <string name="timerPageTitle">Workout Timer</string>
+    <string name="timerTitleLbl">Timer</string>
+    <string name="timerValHolder">01:20</string>
+    <string name="timerStartBtn">Play</string>
+    <string name="timerPauseBtn">Pause</string>
+    <string name="timerResetBtn">Reset</string>
+    <string name="timer_top_btn">Start Timer</string>
+</resources>

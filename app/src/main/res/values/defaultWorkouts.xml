@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="workoutTitles">
+        <item>Crunches</item>
+        <item>Deadlifts</item>
+        <item>Curls</item>
+        <item>Toe Raises</item>
+        <item>Bench Presses</item>
+        <item>Wrist Curls</item>
+        <item>Squats</item>
+        <item>Back Presses</item>
+        <item>Push Downs</item>
+    </string-array>
+    <integer-array name="workoutDurations">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>5</item>
+        <item>7</item>
+        <item>3</item>
+        <item>15</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="workoutCategories">
+        <item>ABS</item>
+        <item>Back</item>
+        <item>Biceps</item>
+        <item>Calf</item>
+        <item>Chest</item>
+        <item>Forearms</item>
+        <item>Legs</item>
+        <item>Shoulders</item>
+        <item>Triceps</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="workoutDescriptions">
+        <item>The crunch is one of the most popular abdominal exercises. When performed properly, it engages all the abdominal muscles but primarily it works the rectus abdominis muscle and the obliques. It allows both building six-pack abs, and tightening the belly.</item>
+        <item>The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press.</item>
+        <item>The term "biceps curl" refers to any of a number of weight training exercises that primarily targets the biceps brachii muscle. It may be performed using a barbell, dumbbell, resistance band, or other equipment.</item>
+        <item>Toe raises mainly work muscles in the lower leg, especially the tibialis anterior, which is located in the outer surface of the tibia, or shin. This muscle is responsible for flexing the foot upward, as well as extending the toes.</item>
+        <item>The bench press, or chest press, is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used.</item>
+        <item>The wrist curl is a weight training exercise for developing just the wrist flexor muscles of the forearm. It is therefore an isolation exercise. Ideally, it should be done in combination with the "reverse wrist curl" to ensure equal development of the wrist flexor and wrist extensor muscles.</item>
+        <item>A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up. During the descent of a squat, the hip and knee joints flex while the ankle joint dorsiflexes; conversely the hip and knee joints extend and the ankle joint plantarflexes when standing up.</item>
+        <item>The behind-the-neck press can be done in a seated or standing position. If you’re new to the exercise, start with the seated version on a weight bench. You can also use a vertical back bench for extra support.</item>
+        <item>A push-down is a strength training exercise used for strengthening the triceps muscles in the back of the arm. The exercise is completed by pushing an object downward against resistance. This exercise is an example of the primary function of the triceps, extension of the elbow joint.</item>
+    </string-array>
+</resources>
